@@ -1,3 +1,10 @@
+GIT
+  remote: https://github.com/pmcfadden/lita-lunchinator.git
+  revision: ed5dfd627c06eeda475490a2ca554b8cb2196e8e
+  specs:
+    lita-lunchinator (0.1.0)
+      lita (>= 4.7)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -50,6 +57,7 @@ PLATFORMS
 
 DEPENDENCIES
   lita
+  lita-lunchinator!
   lita-slack
 
 BUNDLED WITH

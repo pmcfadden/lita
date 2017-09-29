@@ -4,6 +4,7 @@ gem "lita"
 
 # Uncomment to use the HipChat adapter
 gem "lita-slack"
+gem 'lita-lunchinator', :git => 'https://github.com/pmcfadden/lita-lunchinator.git'
 
 # Uncomment to use the IRC adapter
 # gem "lita-irc"
